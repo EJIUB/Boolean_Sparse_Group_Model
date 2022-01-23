@@ -1,4 +1,4 @@
-# Boolean_Structured_Sparsity
+# Boolean_Sparse_Group_Models
 
 ## Prerequest
 Install Gurobi: https://www.gurobi.com/ 
